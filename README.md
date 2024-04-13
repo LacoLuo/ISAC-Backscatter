@@ -20,5 +20,8 @@ In this paper, we explore an integrated sensing and communication (ISAC) system 
 If you have any questions regarding the code, please contact [Hao Luo](mailto:h.luo@asu.edu).
 
 # License and Referencing
-This code package is licensed under a[ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). If you in any way use this code for research that results in publications, please cite our original article:
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This code package is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+If you in any way use this code for research that results in publications, please cite our original article:
+
 > H. Luo, U. Demirhan, and A. Alkhateeb, "ISAC with Backscattering RFID Tags: Joint Beamforming Design," arXiv preprint arXiv:2401.09761, 2024.
