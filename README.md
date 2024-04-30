@@ -5,6 +5,12 @@ This is a MATLAB code package related to the following article: "[ISAC with Back
 In this paper, we explore an integrated sensing and communication (ISAC) system with backscattering RFID tags. In this setup, an access point employs a communication beam to serve a user while leveraging a sensing beam to detect an RFID tag. Under the total transmit power constraint of the system, our objective is to design sensing and communication beams by considering the tag detection and communication requirements. First, we adopt zero-forcing to design the beamforming vectors, followed by solving a convex optimization problem to determine the power allocation between sensing and communication. Then, we study a joint beamforming design problem with the goal of minimizing the total transmit power while satisfying the tag detection and communication requirements. To resolve this, we re-formulate the non-convex constraints into convex second-order cone constraints. The simulation results demonstrate that, under different communication SINR requirements, joint beamforming optimization outperforms the zero-forcing-based method in terms of achievable detection distance, offering a promising approach for the ISAC-backscattering systems.
 
 # Code Package Content
+
+**Environment**
+- Matlab R2023b
+- CVX 2.2
+
+**Simulation setup**
 - The simulation parameters can be set in `sim_params.m` file.
 
 **Max detection distance**
