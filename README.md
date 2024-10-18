@@ -30,4 +30,4 @@ If you have any questions regarding the code, please contact [Hao Luo](mailto:h.
 
 If you in any way use this code for research that results in publications, please cite our original article:
 
-> H. Luo, U. Demirhan, and A. Alkhateeb, "ISAC with Backscattering RFID Tags: Joint Beamforming Design," arXiv preprint arXiv:2401.09761, 2024.
+> H. Luo, U. Demirhan and A. Alkhateeb, "ISAC with Backscattering RFID Tags: Joint Beamforming Design," ICC 2024 - IEEE International Conference on Communications, Denver, CO, USA, 2024, pp. 921-925, doi: 10.1109/ICC51166.2024.10622961.
