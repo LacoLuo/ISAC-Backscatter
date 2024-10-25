@@ -23,6 +23,17 @@ In this paper, we explore an integrated sensing and communication (ISAC) system 
 - The angles of the tag and the user can be set in this file.
 <img src="figures/beam_pattern_BF.jpg" width="600">
 
+**CDF of detection coverage**
+- Run `generate_user_distribution.m` to generate communication user positions.
+- Run `run_max_distance_user_distribution.m` to generate the results.
+- Run `plot_coverage_ratio_cdf.m` to plot the figure.
+<img src="figures/coverage_ratio_cdf.jpg" width="600">
+
+**Transmit power**
+- Run `run_transmit_power.m` to generate the results.
+- Run `plot_transmit_power.m` to plot the figure.
+<img src="figures/transmit_power.jpg" width="600">
+
 If you have any questions regarding the code, please contact [Hao Luo](mailto:h.luo@asu.edu).
 
 # License and Referencing
